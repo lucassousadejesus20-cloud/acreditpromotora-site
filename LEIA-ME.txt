@@ -1,0 +1,30 @@
+ACREDIT PROMOTORA — SITE COMPLETO
+
+PUBLICAÇÃO
+1. Extraia o ZIP.
+2. Envie todos os arquivos e a pasta assets para a pasta pública da hospedagem
+   (normalmente public_html, www ou htdocs).
+3. Ative o certificado SSL/HTTPS.
+4. Confira se o domínio abre com e sem www.
+5. Teste telefone, e-mail, WhatsApp, Instagram e mapa.
+
+CONTEÚDO INCLUÍDO
+- Página inicial
+- A empresa
+- Serviços
+- Contato e mapa
+- Política de Privacidade
+- Termos de Uso
+- Página 404
+- SEO, sitemap, robots.txt, favicon e dados estruturados
+- Layout responsivo
+- Botão flutuante de WhatsApp
+- Aviso de cookies essenciais
+
+IMPORTANTE
+- O número (21) 3950-3513 foi usado também como WhatsApp, com base nas informações fornecidas.
+- O formulário abre o aplicativo de e-mail do visitante; não há servidor de envio.
+- A Política de Privacidade e os Termos são bases informativas e devem ser revisados
+  conforme os processos reais da empresa e por profissional jurídico/LGPD.
+- Caso a empresa queira exibir nomes/logos de bancos parceiros, só inclua instituições
+  com vínculo e autorização confirmados.
